@@ -1,0 +1,6 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+pymysql 
+pyodbc
+mysql-connector-python # for mysql script
