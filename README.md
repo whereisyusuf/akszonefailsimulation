@@ -1,3 +1,17 @@
+Introduction
+
+Brief overview of Azure Availability Zones and their importance in ensuring high availability.
+Importance of setting up Azure resources to withstand zone failures.
+General Guidelines for Azure Setup
+
+Explanation of Azure Availability Zones and Regions.
+Best practices for designing resilient architectures in Azure.
+Overview of Azure SLAs related to availability and redundancy.
+Specific Considerations for AKS
+
+Introduction to Azure Kubernetes Service (AKS) and its benefits.
+Understanding AKS availability zones support and limitations.
+
 # Zone-failure simulation in Azure Kubernetes Service (AKS)
 
 The resources in this repository aims to help in the simulation of Zone Failure of an Azure Kubernetes Service (AKS) cluster.
